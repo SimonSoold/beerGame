@@ -1,0 +1,42 @@
+[
+    {
+        "name": "2",
+        "rule": "Ta 2 klunkar själv och ge bort 2 till en annan  spelare."
+    },
+    {
+        "name": "6",
+        "rule": "Skriv en regel som gäller resten av spelet."
+    },
+    {
+        "name": "7",
+        "rule": "Säg 1, nästa 2, osv. Den som säger talet 7 eller tal i 7ans gångertabell dricker."
+    },
+    {
+        "name": "8",
+        "rule": "Detta kort sparas & kan användas när som helst. Du sätter tummen i bordet, därefter ska alla andra spelare göra det & den som är sist dricker. Kortet är nu använt."
+    },
+    {
+        "name": "9",
+        "rule": "Detta kort sparas & kan användas på din tur för att ta en toalettpaus."
+    },
+    {
+        "name": "10",
+        "rule": "Säg 1, nästa spelare säger ett högre tal & den som säger 21 dricker. Säger man ett tal med två siffror byter man håll."
+    },
+    {
+        "name": "11",
+        "rule": "Alla säger Hej Knekt! och gör honnör, den som gör det sist dricker."
+    },
+    {
+        "name": "12",
+        "rule": "Alla damer dricker"
+    },
+    {
+        "name": "13",
+        "rule": "Alla herrar dricker"
+    },
+    {
+        "name": "14",
+        "rule": "Vattenfall - Alla börjar dricka samtidigt, när den som fick kortet slutar dricka får nästa sluta dricka"
+    }
+]
